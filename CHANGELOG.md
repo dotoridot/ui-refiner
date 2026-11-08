@@ -26,7 +26,7 @@
 
 ### 추가
 - Claude Code 플러그인 설치 지원 (`.claude-plugin/plugin.json`, `marketplace.json`)
-  - `/plugin marketplace add dotoricode/ui-refiner`로 설치 가능
+  - `/plugin marketplace add dotoridot/ui-refiner`로 설치 가능
 - `CHANGELOG.md` 변경 이력 문서
 
 ### 변경
@@ -46,6 +46,6 @@
 - 3단계(Scan/Design/Apply) → 5단계 워크플로우로 확장
 - `SKILL.md`를 영어로 작성 (한국어 트리거 키워드 유지)
 
-[0.0.3]: https://github.com/dotoricode/ui-refiner/compare/v0.0.2...v0.0.3
-[0.0.2]: https://github.com/dotoricode/ui-refiner/compare/v0.0.1...v0.0.2
-[0.0.1]: https://github.com/dotoricode/ui-refiner/releases/tag/v0.0.1
+[0.0.3]: https://github.com/dotoridot/ui-refiner/compare/v0.0.2...v0.0.3
+[0.0.2]: https://github.com/dotoridot/ui-refiner/compare/v0.0.1...v0.0.2
+[0.0.1]: https://github.com/dotoridot/ui-refiner/releases/tag/v0.0.1

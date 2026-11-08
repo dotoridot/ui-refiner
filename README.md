@@ -12,7 +12,7 @@
 ## 빠른 시작 (Claude Code 플러그인)
 
 ```
-/plugin marketplace add dotoricode/ui-refiner
+/plugin marketplace add dotoridot/ui-refiner
 /plugin install ui-refiner
 ```
 
@@ -28,7 +28,7 @@ AI 티 나는 부분 고쳐줘
 
 ```bash
 cd ~/.claude/skills          # Windows: D:\.claude\skills
-git clone https://github.com/dotoricode/ui-refiner
+git clone https://github.com/dotoridot/ui-refiner
 ```
 
 ### 패턴 스캐너 직접 실행
